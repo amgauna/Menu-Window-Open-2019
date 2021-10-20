@@ -1,6 +1,7 @@
 # menu-window
 Exemplo de menu window.open()
 
+<code>
 <menu type="context" id="mymenu" class="navigation" style="word-spacing:20px; width:100%; height:auto; 
       margin:0px; padding:10px; cursor:pointer; background-color: #ffffff !important;">
 
@@ -20,4 +21,4 @@ Exemplo de menu window.open()
 	<a href="#" onclick="window.open('contato.html');">  
 	<span class="glyphicon glyphicon-th-large">Contato</span> </a> </menuitem> 
 </menu>
-
+</code>
