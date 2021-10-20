@@ -1,7 +1,7 @@
 # menu-window
 Exemplo de menu window.open()
 
-<menu type="context" class="navigation" style="word-spacing:20px; width:100%; height:auto; 
+<menu type="context" id="mymenu" class="navigation" style="word-spacing:20px; width:100%; height:auto; 
       margin:0px; padding:10px; cursor:pointer; background-color: #ffffff !important;">
 
     <menuitem label="#Home">
